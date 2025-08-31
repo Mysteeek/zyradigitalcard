@@ -22,7 +22,7 @@ export default function HomeScreen() {
       {/* Create Card */}
       <TouchableOpacity
         style={styles.primaryButton}
-        onPress={() => router.push("/create")}
+        onPress={() => router.push("/create-card")}
       >
         <Text style={styles.primaryButtonText}>Create a Card</Text>
       </TouchableOpacity>

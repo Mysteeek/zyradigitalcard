@@ -18,7 +18,7 @@ export default function LoginScreen() {
       return;
     }
     // ✅ Success → go to dashboard
-    router.replace("/dashboard.tsx/card");
+    router.replace("/dashboard.tsx/profile");
   };
 
   return (

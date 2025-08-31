@@ -39,7 +39,7 @@ export default function OnboardingScreen() {
             </View>
           ),
           title: "Welcome to Zyra Digital Card",
-          subtitle: "Networking, reimagined with your digital card",
+          subtitle: "The Future of networking is here",
         },
         {
           backgroundColor: "#0B0C2A",
@@ -49,7 +49,7 @@ export default function OnboardingScreen() {
             </View>
           ),
           title: "One tap",
-          subtitle: "All your business details, instantly",
+          subtitle: "customize your digital card, instantly",
         },
         {
           backgroundColor: "#0B0C2A",
@@ -58,8 +58,8 @@ export default function OnboardingScreen() {
               <Ionicons name="cloud-outline" size={50} color="#A259FF" />
             </View>
           ),
-          title: "Your contacts",
-          subtitle: "Secure and always within reach.",
+          title: "Ready to Create",
+          subtitle: "Design your unique digital smart card and start sharing with your world",
         },
       ]}
     />

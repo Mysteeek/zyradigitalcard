@@ -35,9 +35,9 @@ export default function DashboardLayout() {
         }}
       />
       <Tabs.Screen
-        name="received"
+        name="mycontact"
         options={{
-          title: "Received",
+          title: "mycontact",
           tabBarIcon: ({ color, size }) => <Ionicons name="mail-outline" size={size} color={color} />,
         }}
       />
